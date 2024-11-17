@@ -2,8 +2,7 @@
 🌐 **Full-Stack Web Developer**  
 - 👀 I’m interested in developing web systems, dynamic applications, and solving real-world problems through technology.  
 - 🌱 I’m currently learning advanced frameworks and techniques to enhance both front-end and back-end development.  
-- 💞️ I’m looking to collaborate on innovative web applications, system integrations, and full-stack projects.  
-- 📫 How to reach me: [yahiaouimohamedredha@gmail.com]   
+- 💞️ I’m looking to collaborate on innovative web applications, system integrations, and full-stack projects.    
 
 💻 **Tech Stack**:  
 - **Front-End**: HTML, CSS, JavaScript  
